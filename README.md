@@ -1,4 +1,4 @@
-# just-the-docs-template
+# Hisam's Just the Docs Template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
