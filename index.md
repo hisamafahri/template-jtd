@@ -1,9 +1,12 @@
 ---
 title: Getting Started
 layout: home
+last_modified_date: 2024-01-02
 ---
 
-Hello, world!
+# Hello, world! 👋
+
+## What's this?
 
 This is a minimum template for the [Just the Docs](https://github.com/just-the-docs/just-the-docs) project.
 
