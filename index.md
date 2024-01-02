@@ -13,11 +13,13 @@ This is a minimum template for the [Just the Docs](https://github.com/just-the-d
 
 ## How do I Personally Use It?
 
-My intended purposes for this template is to have a great starting point for me and all of my personal, projects, or even work documentations purposes.
+My intended purpose for this template is to have a great starting point for me and all of my personal, projects, or even work documentation purposes.
 
 ## How do I (mostly) Structured It?
 
-I am a really a huge fan of [Diátaxis](https://diataxis.fr) framework for documentation strategy. It mostly split it into Tutorials, How-to Guides, References, and Explanations/Concepts. While its initially intended purpose is to be used in technical documentations, I found it to be suitable with a wide-range documents with little to no adjustments.
+I am a huge fan of [Diátaxis](https://diataxis.fr) framework for documentation strategy. It mostly split it into Tutorials, How-to Guides, References, and Explanations/Concepts. 
+
+While its initial purpose was to be used in technical documentation, I found it to be suitable with a wide range of documents with little to no adjustments.
 
 ## How can I use it?
 
