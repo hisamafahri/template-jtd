@@ -11,6 +11,8 @@ aux_links: # remove if you don't want this link to appear on your pages
 # Makes Aux links open in a new tab.
 aux_links_new_tab: true
 
+permalink: pretty
+
 # Footer content
 # Copyright
 footer_content: "&copy; 2024 <a href=\"https://hisam.dev\" target=\"_blank\">Hisam Fahri</a>."
